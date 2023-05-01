@@ -1,7 +1,12 @@
 ---
 layout: yenii post
-title:  "Welcome to yeeun blog!"
-date:   2023-05-01 02:14:55 +0900
+<<<<<<< HEAD
+title:  "Welcome to yeeun's blog!"
+date:   2023-04-30 02:14:55 +0900
+=======
+title:  "Welcome to yeeun's blog!"
+date:   2023-04-30 02:14:55 +0900
+>>>>>>> c7f281f48293151926601e518f278a7a81887fa0
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
