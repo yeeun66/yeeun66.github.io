@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: yenii post
+title:  "Welcome to yeeun's blog!"
 date:   2023-04-30 02:14:55 +0900
 categories: jekyll update
 ---
